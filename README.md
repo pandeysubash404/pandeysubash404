@@ -5,7 +5,7 @@
 - 👀 I’m interested in web development and blockchain
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love listening to music
 
 ### Connect with me:
