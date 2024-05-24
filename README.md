@@ -40,8 +40,8 @@
 <br />
 <br />
 
-<p> ![Pandey's Top Language]<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandeysubash404&show_icons=true&locale=en&layout=compact" alt="pandeysubash404" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandeysubash404&show_icons=true&locale=en&layout=compact" alt="pandeysubash404" /></p>
 
-<p>&nbsp; ![Pandey's GitHub stats]<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandeysubash404&show_icons=true&locale=en" alt="pandeysubash404" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandeysubash404&show_icons=true&locale=en" alt="pandeysubash404" /></p>
 
-<p> ![Pandey's Contribution's]<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandeysubash404&" alt="pandeysubash404" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandeysubash404&" alt="pandeysubash404" /></p>
